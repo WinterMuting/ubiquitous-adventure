@@ -7,3 +7,5 @@ untracked:
 Files aren't tracked by Git yet. This usually indicates a newly created file.
 deleted:
 File has been deleted and is waiting to be removed from Git.
+https://git-scm.com/search/results?search=wildcard
+https://try.github.io/wrap_up
