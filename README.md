@@ -10,3 +10,4 @@ https://www.youtube.com/watch?v=Bv_5Zv5c-Ts
 No, I don't want to learn JS. But hey, how else would I learn JS?
 
 http://radar.oreilly.com/2014/03/a-concrete-approach-to-learning-how-to-program-for-beginners.html
+https://www.google.pl/about/careers/students/guide-to-technical-development.html
